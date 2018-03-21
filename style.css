@@ -1,13 +1,14 @@
 .main{
   width:100%;
-  background-color: powderblue;
+  background-color: skyblue;
   display: flex;
   flex-direction: row;
+  align-content: center;
 }
 .left{
   width:25%;
   border:2px solid blue;
-  background-color: #34dd;
+  background-color: orange;
   margin:5px 3px 1px 10px:
   padding: 5%;
   margin: 1%;
@@ -23,18 +24,10 @@ box-shadow: 3px 2px 2px #000;
 
 .right{
   width:70%;
-  background-color: #fff;
+  background-color: #3b2823 ;
   border:2px solid green;
   padding:5%;
   margin: 1%;
-}
-#name{
-  color:#000;
-}
-.left h1{
-  color:green;
-}
- .right h2{
   color:powderblue;
 }
 #edu{
