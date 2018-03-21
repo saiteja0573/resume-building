@@ -1,0 +1,38 @@
+{
+"basics":{
+  "photo":"download.png",
+  "name":"sai teja",
+  "email":"saitejamurahari9@gmail.com",
+  "mobile":"9502639314"
+
+},
+"education":[
+  {
+    "course":"B.tech(computer science and engineering)",
+    "college":[
+      "gpcet",
+      "2015-2019",
+      "70"
+    ]
+
+  },
+  {
+    "course":"intermediate",
+    "college":[
+      "sri chaintanya",
+      "2013-2015",
+      "90"
+    ]
+
+  },
+  {
+    "course":"SSC",
+    "college":[
+      "ZPHS",
+      "2013",
+      "80"
+    ]
+
+  }
+]
+}
