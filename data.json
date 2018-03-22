@@ -1,6 +1,6 @@
 {
 "basics":{
-  "photo":"download.png",
+  "photo":"manicon.png",
   "name":"sai teja",
   "email":"saitejamurahari9@gmail.com",
   "mobile":"9502639314"
@@ -19,7 +19,7 @@
   {
     "course":"intermediate",
     "college":[
-      "sri chaintanya",
+      "sri chaitanya",
       "2013-2015",
       "90"
     ]
@@ -34,5 +34,23 @@
     ]
 
   }
+],
+"skills":[
+  {
+  "name":"Web Technologies",
+  "value":"HTML,CSS"
+},
+   {
+     "name":"operating system",
+     "value":"Linux,Windows"
+   },
+
+   {
+     "name":"Programing Languages",
+     "value":"c,c++,java"
+   }
+
+
 ]
+
 }

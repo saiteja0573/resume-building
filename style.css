@@ -29,6 +29,7 @@ box-shadow: 3px 2px 2px #000;
   padding:5%;
   margin: 1%;
   color:powderblue;
+  /* background-image:url("bc.jpg"); */
 }
 #edu{
   color: #999;
@@ -165,4 +166,9 @@ box-shadow: 3px 2px 2px #000;
    #edu{
      color: #999;
    }
+}
+
+table,td{
+
+
 }
